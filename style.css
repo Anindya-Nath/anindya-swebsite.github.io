@@ -277,7 +277,7 @@ main hr {
 .thirdsec {
     max-width: 83vw;
     margin: auto;
-    height: 255vh;
+    height: 270vh;
 }
 
 .thirdsec h1 {
@@ -434,6 +434,15 @@ main hr {
     .fourthsec .project h3{
         font-size: 23px;
         margin: 15px 30px;
+    }
+.fourthsec .project a{
+        font-size: 20px;
+        margin: 15px 60px;
+        text-decoration: none;
+        color: aquamarine;
+    }
+    .fourthsec .project i{
+        margin-right: 5px;
     }
     .fourthsec .ytvideo{
         display: flex;
